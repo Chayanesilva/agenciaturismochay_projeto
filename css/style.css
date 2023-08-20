@@ -1,0 +1,95 @@
+.SuaClasse {
+    width: fit-content;
+    height: 7rem;
+}
+
+.ClasseDiv {
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+}
+
+
+.card {
+    margin: 10px 10px;
+
+    }
+
+.col{
+    font-family: Arial;
+    text-align: justify;
+}
+
+
+.inicio{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+
+
+.Ofertas{
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+
+.Meusdestinos{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+
+.cardhover:hover{
+    background: rgba(0, 0, 0, 0.5);
+
+}
+
+.text-center{
+    color: rgb(237, 237, 248);
+}
+.card-text1{
+    color: blue;
+}
+
+.card-title1{
+    color: blue;
+}
+
+
+
+/* Essa tag vai mexer no primeiro card da linha 171 */
+
+/* Meu rodapé começa aqui */
+
+.containeree {
+    background-color:  rgb(202, 203, 206);
+    color: rgb(7, 2, 109);
+    width: 100%;
+    text-align: center;
+    
+  }
+
+  .containeree img {
+    width: 100px;
+    height: 100px;
+  }
+
+
+
+  .card:hover img{
+
+    transform: scale(1.1);
+}
+ 
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+    color: blue;
+}
+
+.card-title{
+    color: #0000ff;
+}

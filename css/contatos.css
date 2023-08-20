@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    color: antiquewhite;
+    margin-left: 40%;
+}
+#subtitulo{
+    font-family: Arial, Helvetica, sans-serif;
+    color: antiquewhite;
+    margin-left: 20%;
+    content: center;
+}
+
+.campo1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    padding: auto;
+    
+}
+
+.campo2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    padding: auto;
+}
+.border{
+    border-radius: 25px;
+}
